@@ -1,0 +1,363 @@
+player_id,player_name,team_id,team_name,position,height_cm,profile_source,draft_year,player_category,rookie,season,first_game_id,last_game_id
+290284,허일영,50,창원 LG,FD,196.0,kbl_public_registration,2009,국내,0,2025-2026,S47G01N1,S47G01N266
+290553,배병준,50,창원 LG,GD,189.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N1,S47G01N266
+290648,한상혁,50,창원 LG,GD,183.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N1,S47G01N266
+290996,정인덕,50,창원 LG,FD,195.0,kbl_public_registration,2016,국내,0,2025-2026,S47G01N1,S47G01N266
+291291,박정현,50,창원 LG,C,202.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N1,S47G01N266
+291432,아셈 마레이,50,창원 LG,C,205.0,kbl_public_registration,,외국,,2025-2026,S47G01N1,S47G01N262
+291576,양준석,50,창원 LG,GD,180.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N1,S47G01N266
+291640,유기상,50,창원 LG,GD,188.0,kbl_public_registration,2023,국내,0,2025-2026,S47G01N1,S47G01N266
+291670,마이클 에릭,50,창원 LG,C,211.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N1,S47G01N232
+291699,칼 타마요,50,창원 LG,FD,200.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N1,S47G01N262
+291771,최형찬,50,창원 LG,GD,188.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N1,S47G01N266
+290478,장민국,50,창원 LG,FD,199.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N1,S47G01N266
+290485,최부경,55,서울 SK,FD,200.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N1,S47G01N265
+290784,최원혁,55,서울 SK,GD,183.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N1,S47G01N265
+291068,김낙현,55,서울 SK,GD,184.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N1,S47G01N265
+291144,대릴 먼로,55,서울 SK,C,200.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N1,S47G01N268
+291248,자밀 워니,55,서울 SK,C,199.0,kbl_public_registration,,외국,,2025-2026,S47G01N1,S47G01N265
+291303,김형빈,55,서울 SK,FD,201.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N1,S47G01N268
+291368,오재현,55,서울 SK,GD,187.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N1,S47G01N268
+291760,이민서,55,서울 SK,GD,180.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N1,S47G01N268
+291784,알빈 톨렌티노,55,서울 SK,FD,192.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N1,S47G01N265
+291497,선상혁,55,서울 SK,C,205.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N1,S47G01N54
+291603,문가온,55,서울 SK,GD,187.0,kbl_public_player_profile,2022,국내,0,2025-2026,S47G01N1,S47G01N268
+291646,김건우,55,서울 SK,C,200.0,kbl_public_player_profile,2023,국내,0,2025-2026,S47G01N1,S47G01N54
+290440,이관희,35,서울 삼성,GD,189.0,kbl_public_registration,2011,국내,0,2025-2026,S47G01N2,S47G01N270
+290501,최현민,35,서울 삼성,FD,195.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N2,S47G01N270
+290742,이대성,35,서울 삼성,GD,190.0,kbl_public_registration,2013,국내,0,2025-2026,S47G01N2,S47G01N96
+290754,한호빈,35,서울 삼성,GD,181.0,kbl_public_registration,2013,국내,0,2025-2026,S47G01N2,S47G01N270
+290985,최성모,35,서울 삼성,GD,187.0,kbl_public_registration,2016,국내,0,2025-2026,S47G01N2,S47G01N270
+291095,윤성원,35,서울 삼성,FD,196.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N2,S47G01N253
+291374,이근휘,35,서울 삼성,FD,188.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N2,S47G01N270
+291430,앤드류 니콜슨,35,서울 삼성,FD,206.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N2,S47G01N233
+291512,저스틴 구탕,35,서울 삼성,FD,188.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N2,S47G01N270
+291787,케렘 칸터,35,서울 삼성,C,204.0,kbl_public_registration,,외국,,2025-2026,S47G01N2,S47G01N270
+290662,이동엽,35,서울 삼성,GD,193.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N2,S47G01N82
+291209,김한솔,35,서울 삼성,C,198.0,kbl_public_player_profile,2018,국내,0,2025-2026,S47G01N2,S47G01N43
+290539,장재석,60,부산 KCC,C,203.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N2,S47G01N269
+290776,허웅,60,부산 KCC,GD,185.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N2,S47G01N269
+290897,송교창,60,부산 KCC,FD,199.0,kbl_public_player_profile,2015,국내,0,2025-2026,S47G01N2,S47G01N269
+290993,최준용,60,부산 KCC,FD,200.0,kbl_public_player_profile,2016,국내,0,2025-2026,S47G01N2,S47G01N269
+291287,김훈,60,부산 KCC,FD,193.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N2,S47G01N252
+291293,최진광,60,부산 KCC,GD,175.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N2,S47G01N269
+291342,숀 롱,60,부산 KCC,C,208.0,kbl_public_registration,,외국,,2025-2026,S47G01N2,S47G01N269
+291490,김동현,60,부산 KCC,GD,190.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N2,S47G01N269
+291580,드완 에르난데스,60,부산 KCC,C,208.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N2,S47G01N269
+291792,윌리엄 나바로,60,부산 KCC,FD,193.0,kbl_public_player_profile,,아시아쿼터,,2025-2026,S47G01N2,S47G01N269
+291651,이주영,60,부산 KCC,GD,182.0,kbl_public_registration,2023,국내,0,2025-2026,S47G01N2,S47G01N234
+291770,이현호,60,부산 KCC,GD,179.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N2,S47G01N143
+290100,함지훈,10,울산 현대모비스,FD,198.0,kbl_public_player_profile,2007,국내,0,2025-2026,S47G01N3,S47G01N266
+290489,정준원,10,울산 현대모비스,FD,194.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N3,S47G01N266
+290787,이승현,10,울산 현대모비스,FD,197.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N3,S47G01N266
+291189,서명진,10,울산 현대모비스,GD,188.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N3,S47G01N266
+291289,박준은,10,울산 현대모비스,FD,194.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N3,S47G01N105
+291485,이승우,10,울산 현대모비스,FD,193.0,kbl_public_player_profile,2021,국내,0,2025-2026,S47G01N3,S47G01N216
+291494,김동준,10,울산 현대모비스,GD,175.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N3,S47G01N76
+291649,박무빈,10,울산 현대모비스,GD,184.0,kbl_public_registration,2023,국내,0,2025-2026,S47G01N3,S47G01N254
+291692,미구엘 안드레 옥존,10,울산 현대모비스,GD,180.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N3,S47G01N38
+291698,레이션 해먼즈,10,울산 현대모비스,FD,202.0,kbl_public_registration,,외국,,2025-2026,S47G01N3,S47G01N266
+291790,에릭 로메로,10,울산 현대모비스,C,210.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N3,S47G01N63
+290603,이대헌,10,울산 현대모비스,FD,195.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N3,S47G01N146
+290381,이정현,16,원주 DB,GD,191.0,kbl_public_registration,2010,국내,0,2025-2026,S47G01N3,S47G01N269
+290599,서민수,16,원주 DB,FD,196.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N3,S47G01N269
+291001,강상재,16,원주 DB,FD,200.0,kbl_public_registration,2016,국내,0,2025-2026,S47G01N3,S47G01N177
+291070,최성원,16,원주 DB,GD,183.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N3,S47G01N269
+291511,이선 알바노,16,원주 DB,GD,185.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N3,S47G01N269
+291588,박인웅,16,원주 DB,FD,190.0,kbl_public_player_profile,2022,국내,0,2025-2026,S47G01N3,S47G01N269
+291752,김보배,16,원주 DB,FD,202.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N3,S47G01N269
+291785,헨리 엘런슨,16,원주 DB,FD,208.0,kbl_public_registration,,외국,,2025-2026,S47G01N3,S47G01N269
+291786,에삼 무스타파,16,원주 DB,C,203.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N3,S47G01N269
+291304,이윤수,16,원주 DB,C,203.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N3,S47G01N72
+291355,이용우,16,원주 DB,GD,185.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N3,S47G01N269
+291483,정호영,16,원주 DB,GD,186.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N3,S47G01N269
+290407,김선형,06,수원 KT,GD,187.0,kbl_public_registration,2011,국내,0,2025-2026,S47G01N4,S47G01N267
+290454,정창영,06,수원 KT,GD,193.0,kbl_public_registration,2011,국내,0,2025-2026,S47G01N4,S47G01N267
+290583,한희원,06,수원 KT,FD,195.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N4,S47G01N267
+290661,문성곤,06,수원 KT,FD,196.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N4,S47G01N267
+290783,이현석,06,수원 KT,GD,190.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N4,S47G01N236
+291226,박준영,06,수원 KT,FD,195.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N4,S47G01N267
+291333,아이재아 힉스,06,수원 KT,C,203.0,kbl_public_registration,,외국,,2025-2026,S47G01N4,S47G01N229
+291492,하윤기,06,수원 KT,C,204.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N4,S47G01N139
+291586,이두원,06,수원 KT,C,204.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N4,S47G01N267
+291667,문정현,06,수원 KT,FD,194.0,kbl_public_registration,2023,국내,0,2025-2026,S47G01N4,S47G01N267
+291777,조엘 카굴랑안,06,수원 KT,GD,172.0,kbl_public_player_profile,,아시아쿼터,,2025-2026,S47G01N4,S47G01N145
+291791,데릭 윌리엄스,06,수원 KT,FD,202.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N4,S47G01N267
+291660,박승재,35,서울 삼성,GD,178.0,kbl_public_player_profile,2023,국내,0,2025-2026,S47G01N5,S47G01N270
+290417,최진수,64,대구 한국가스공사,FD,203.0,kbl_public_player_profile,2011,국내,0,2025-2026,S47G01N5,S47G01N212
+290488,차바위,64,대구 한국가스공사,FD,192.0,kbl_public_player_profile,2012,국내,0,2025-2026,S47G01N5,S47G01N78
+290524,라건아,64,대구 한국가스공사,C,200.0,kbl_public_registration,,외국,,2025-2026,S47G01N5,S47G01N270
+290781,김준일,64,대구 한국가스공사,C,202.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N5,S47G01N270
+290901,정성우,64,대구 한국가스공사,GD,178.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N5,S47G01N270
+291087,김국찬,64,대구 한국가스공사,FD,190.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N5,S47G01N270
+291182,우동현,64,대구 한국가스공사,GD,176.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N5,S47G01N270
+291194,전현우,64,대구 한국가스공사,FD,194.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N5,S47G01N270
+291274,양재혁,64,대구 한국가스공사,FD,191.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N5,S47G01N270
+291479,신승민,64,대구 한국가스공사,FD,195.0,kbl_public_player_profile,2021,국내,0,2025-2026,S47G01N5,S47G01N270
+291556,샘조세프 벨란겔,64,대구 한국가스공사,GD,175.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N5,S47G01N270
+291783,망콕 마티앙,64,대구 한국가스공사,C,205.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N5,S47G01N33
+290529,정희재,66,고양 소노,FD,195.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N6,S47G01N267
+290765,이재도,66,고양 소노,GD,180.0,kbl_public_registration,2013,국내,0,2025-2026,S47G01N6,S47G01N267
+290785,최승욱,66,고양 소노,FD,193.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N6,S47G01N257
+290997,김진유,66,고양 소노,GD,189.0,kbl_public_registration,2016,국내,0,2025-2026,S47G01N6,S47G01N267
+291370,박진철,66,고양 소노,C,200.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N6,S47G01N70
+291488,이정현,66,고양 소노,GD,188.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N6,S47G01N263
+291499,조은후,66,고양 소노,GD,187.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N6,S47G01N267
+291748,이근준,66,고양 소노,FD,194.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N6,S47G01N267
+291750,정성조,66,고양 소노,FD,191.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N6,S47G01N83
+291778,케빈 켐바오,66,고양 소노,FD,195.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N6,S47G01N267
+291788,네이던 나이트,66,고양 소노,C,202.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N6,S47G01N267
+291789,제일린 존슨,66,고양 소노,C,204.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N6,S47G01N174
+290741,김영현,70,안양 정관장,GD,186.0,kbl_public_player_profile,2013,국내,0,2025-2026,S47G01N6,S47G01N263
+290750,김종규,70,안양 정관장,C,207.0,kbl_public_registration,2013,국내,0,2025-2026,S47G01N6,S47G01N263
+291008,박지훈,70,안양 정관장,GD,182.0,kbl_public_registration,2016,국내,0,2025-2026,S47G01N6,S47G01N263
+291220,변준형,70,안양 정관장,GD,185.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N6,S47G01N263
+291275,김경원,70,안양 정관장,C,198.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N6,S47G01N263
+291372,한승희,70,안양 정관장,FD,196.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N6,S47G01N268
+291500,조니 오브라이언트,70,안양 정관장,C,203.0,kbl_public_registration,,외국,,2025-2026,S47G01N6,S47G01N268
+291583,렌즈 아반도,70,안양 정관장,GD,187.0,kbl_public_registration,,아시아쿼터,,2025-2026,S47G01N6,S47G01N268
+291648,표승빈,70,안양 정관장,FD,189.0,kbl_public_registration,2023,국내,0,2025-2026,S47G01N6,S47G01N250
+291746,박정웅,70,안양 정관장,GD,193.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N6,S47G01N244
+291747,소준혁,70,안양 정관장,GD,185.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N6,S47G01N268
+291793,브라이스 워싱턴,70,안양 정관장,FD,196.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N6,S47G01N268
+291601,고찬혁,06,수원 KT,GD,184.0,kbl_public_player_profile,2022,국내,0,2025-2026,S47G01N7,S47G01N71
+291084,안영준,55,서울 SK,FD,195.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N7,S47G01N261
+290435,홍경기,66,고양 소노,GD,184.0,kbl_public_player_profile,2011,국내,0,2025-2026,S47G01N9,S47G01N154
+291641,박종하,66,고양 소노,GD,184.0,kbl_public_registration,2023,국내,0,2025-2026,S47G01N9,S47G01N267
+291668,신주영,64,대구 한국가스공사,FD,200.0,kbl_public_player_profile,2023,국내,0,2025-2026,S47G01N10,S47G01N257
+291759,김태훈,55,서울 SK,GD,189.0,kbl_public_player_profile,2024,국내,0,2025-2026,S47G01N13,S47G01N268
+291763,임동언,35,서울 삼성,FD,195.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N14,S47G01N270
+291388,이도헌,10,울산 현대모비스,GD,184.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N16,S47G01N266
+291592,여준형,60,부산 KCC,FD,198.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N16,S47G01N157
+290585,최창진,64,대구 한국가스공사,GD,185.0,kbl_public_player_profile,2015,국내,0,2025-2026,S47G01N17,S47G01N168
+291210,김준형,70,안양 정관장,FD,201.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N18,S47G01N268
+290777,김영훈,66,고양 소노,FD,190.0,kbl_public_player_profile,2014,국내,0,2025-2026,S47G01N20,S47G01N43
+290542,임동섭,66,고양 소노,FD,197.0,kbl_public_registration,2012,국내,0,2025-2026,S47G01N27,S47G01N267
+290503,박지훈,64,대구 한국가스공사,FD,193.0,kbl_public_player_profile,2012,국내,0,2025-2026,S47G01N28,S47G01N261
+290788,이호현,60,부산 KCC,GD,183.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N31,S47G01N269
+291753,백승엽,16,원주 DB,GD,180.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N32,S47G01N69
+290740,전준범,10,울산 현대모비스,FD,194.0,kbl_public_registration,2013,국내,0,2025-2026,S47G01N38,S47G01N225
+291795,닉 퍼킨스,64,대구 한국가스공사,FD,200.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N39,S47G01N133
+291662,최승빈,16,원주 DB,FD,191.0,kbl_public_player_profile,2023,국내,0,2025-2026,S47G01N40,S47G01N40
+291478,이원석,35,서울 삼성,FD,207.0,kbl_public_player_profile,2021,국내,0,2025-2026,S47G01N45,S47G01N270
+291639,박상우,16,원주 DB,FD,191.0,kbl_public_player_profile,2023,국내,0,2025-2026,S47G01N46,S47G01N167
+291756,이대균,10,울산 현대모비스,FD,200.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N47,S47G01N266
+291489,문시윤,66,고양 소노,FD,197.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N49,S47G01N49
+291208,조한진,10,울산 현대모비스,FD,193.0,kbl_public_registration,2018,국내,0,2025-2026,S47G01N55,S47G01N266
+291764,황영찬,35,서울 삼성,GD,179.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N55,S47G01N260
+290450,오세근,55,서울 SK,FD,200.0,kbl_public_registration,2011,국내,0,2025-2026,S47G01N56,S47G01N268
+290763,전성현,70,안양 정관장,FD,189.0,kbl_public_registration,2013,국내,0,2025-2026,S47G01N59,S47G01N268
+291085,허훈,60,부산 KCC,GD,180.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N60,S47G01N269
+291754,손준,64,대구 한국가스공사,FD,199.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N62,S47G01N208
+291352,박지원,06,수원 KT,GD,191.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N64,S47G01N267
+291655,나성호,50,창원 LG,FD,189.0,kbl_public_player_profile,2023,국내,0,2025-2026,S47G01N66,S47G01N74
+290790,정효근,16,원주 DB,FD,202.0,kbl_public_registration,2014,국내,0,2025-2026,S47G01N72,S47G01N269
+291766,박성재,06,수원 KT,GD,182.0,kbl_public_player_profile,2024,국내,0,2025-2026,S47G01N77,S47G01N208
+291848,박정환,10,울산 현대모비스,GD,180.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N80,S47G01N266
+291842,강성욱,06,수원 KT,GD,184.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N81,S47G01N267
+291850,이유진,16,원주 DB,FD,200.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N82,S47G01N269
+291853,이규태,35,서울 삼성,FD,200.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N82,S47G01N270
+291855,강지훈,66,고양 소노,C,201.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N83,S47G01N267
+291091,양홍석,50,창원 LG,FD,195.0,kbl_public_registration,2017,국내,0,2025-2026,S47G01N84,S47G01N266
+291363,윤원상,50,창원 LG,GD,181.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N84,S47G01N266
+291865,김선우,50,창원 LG,GD,173.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N84,S47G01N170
+291862,양우혁,64,대구 한국가스공사,GD,178.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N84,S47G01N270
+291863,김민규,64,대구 한국가스공사,FD,196.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N84,S47G01N270
+291859,윤기찬,60,부산 KCC,FD,194.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N85,S47G01N269
+291281,김세창,70,안양 정관장,GD,183.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N85,S47G01N268
+291843,박민재,06,수원 KT,FD,193.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N87,S47G01N208
+291597,신동혁,35,서울 삼성,FD,191.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N87,S47G01N270
+291847,최강민,10,울산 현대모비스,GD,188.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N88,S47G01N266
+291849,김건하,10,울산 현대모비스,GD,174.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N88,S47G01N266
+291276,박찬호,70,안양 정관장,C,202.0,kbl_public_registration,2019,국내,0,2025-2026,S47G01N89,S47G01N268
+291351,이윤기,06,수원 KT,FD,189.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N91,S47G01N267
+291866,김준영,50,창원 LG,GD,179.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N91,S47G01N166
+290662,이동엽,66,고양 소노,GD,193.0,kbl_public_registration,2015,국내,0,2025-2026,S47G01N92,S47G01N197
+291856,신지원,66,고양 소노,FD,197.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N92,S47G01N106
+291845,안성우,55,서울 SK,GD,184.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N93,S47G01N268
+291851,김휴범,16,원주 DB,GD,178.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N94,S47G01N223
+291844,김명진,55,서울 SK,FD,199.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N97,S47G01N268
+291476,김준환,06,수원 KT,GD,187.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N98,S47G01N106
+291341,존 이그부누,10,울산 현대모비스,C,211.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N107,S47G01N266
+291860,강태현,60,부산 KCC,FD,197.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N108,S47G01N128
+291861,김윤성,60,부산 KCC,C,199.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N108,S47G01N122
+291750,정성조,35,서울 삼성,FD,191.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N110,S47G01N233
+291846,에디 다니엘,55,서울 SK,FD,191.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N110,S47G01N268
+291391,조석호,66,고양 소노,GD,178.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N119,S47G01N124
+291605,조재우,66,고양 소노,C,200.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N119,S47G01N119
+291606,안정욱,66,고양 소노,FD,194.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N124,S47G01N124
+291857,문유현,70,안양 정관장,GD,180.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N134,S47G01N268
+291871,베니 보트라이트,64,대구 한국가스공사,FD,205.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N142,S47G01N242
+291589,인승찬,16,원주 DB,FD,196.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N145,S47G01N194
+291594,김태완,10,울산 현대모비스,GD,181.0,kbl_public_registration,2022,국내,0,2025-2026,S47G01N146,S47G01N146
+291370,박진철,35,서울 삼성,C,200.0,kbl_public_registration,2020,국내,0,2025-2026,S47G01N152,S47G01N152
+291769,이찬영,60,부산 KCC,FD,193.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N157,S47G01N157
+291876,존킴웰 피게로아,10,울산 현대모비스,GD,190.0,kbl_public_player_profile,,아시아쿼터,,2025-2026,S47G01N163,S47G01N254
+291877,이기디우스 모츠카비추스,66,고양 소노,C,208.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N180,S47G01N267
+291867,임정현,50,창원 LG,FD,191.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N185,S47G01N196
+291878,조나단 윌리엄스,06,수원 KT,C,203.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N238,S47G01N267
+291879,카이린 갤러웨이,50,창원 LG,FD,203.0,kbl_public_player_profile,,외국,,2025-2026,S47G01N246,S47G01N266
+291749,서동원,66,고양 소노,FD,192.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N267,S47G01N267
+291761,강재민,55,서울 SK,FD,195.0,kbl_public_player_profile,2024,국내,0,2025-2026,S47G01N268,S47G01N268
+291869,프레디,55,서울 SK,C,202.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N268,S47G01N268
+291482,주현우,70,안양 정관장,FD,198.0,kbl_public_registration,2021,국내,0,2025-2026,S47G01N268,S47G01N268
+291858,송한준,70,안양 정관장,FD,197.0,kbl_public_registration,2025,국내,1,2025-2026,S47G01N268,S47G01N268
+291755,권순우,64,대구 한국가스공사,GD,187.0,kbl_public_registration,2024,국내,0,2025-2026,S47G01N270,S47G01N270
+290478,장민국,50,창원 LG,FD,199.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N1,S49G01N75
+290648,한상혁,50,창원 LG,GD,183.0,kbl_public_registration,2015,국내,0,2026-2027,S49G01N1,S49G01N75
+290996,정인덕,50,창원 LG,FD,195.0,kbl_public_registration,2016,국내,0,2026-2027,S49G01N1,S49G01N68
+291091,양홍석,50,창원 LG,FD,195.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N1,S49G01N75
+291363,윤원상,50,창원 LG,GD,181.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N1,S49G01N75
+291432,아셈 마레이,50,창원 LG,C,205.0,kbl_public_registration,,외국,,2026-2027,S49G01N1,S49G01N75
+291576,양준석,50,창원 LG,GD,180.0,kbl_public_registration,2022,국내,0,2026-2027,S49G01N1,S49G01N75
+291699,칼 타마요,50,창원 LG,FD,200.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N1,S49G01N49
+291771,최형찬,50,창원 LG,GD,188.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N1,S49G01N75
+291867,임정현,50,창원 LG,FD,191.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N1,S49G01N75
+291882,아치 굿윈,50,창원 LG,GD,193.0,kbl_public_registration,,외국,,2026-2027,S49G01N1,S49G01N75
+291291,박정현,50,창원 LG,C,202.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N1,S49G01N75
+290539,장재석,60,부산 KCC,C,203.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N1,S49G01N76
+290776,허웅,60,부산 KCC,GD,185.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N1,S49G01N76
+290788,이호현,60,부산 KCC,GD,183.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N1,S49G01N76
+291085,허훈,60,부산 KCC,GD,180.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N1,S49G01N76
+291287,김훈,60,부산 KCC,FD,193.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N1,S49G01N76
+291342,숀 롱,60,부산 KCC,C,208.0,kbl_public_registration,,외국,,2026-2027,S49G01N1,S49G01N76
+291490,김동현,60,부산 KCC,GD,190.0,kbl_public_registration,2021,국내,0,2026-2027,S49G01N1,S49G01N76
+291491,서정현,60,부산 KCC,C,200.0,kbl_public_registration,2021,국내,0,2026-2027,S49G01N1,S49G01N76
+291769,이찬영,60,부산 KCC,FD,193.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N1,S49G01N76
+291859,윤기찬,60,부산 KCC,FD,194.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N1,S49G01N76
+291884,루이스 킹,60,부산 KCC,FD,200.0,kbl_public_registration,,외국,,2026-2027,S49G01N1,S49G01N76
+291293,최진광,60,부산 KCC,GD,175.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N1,S49G01N76
+290524,라건아,64,대구 한국가스공사,C,200.0,kbl_public_registration,,외국,,2026-2027,S49G01N2,S49G01N72
+290781,김준일,64,대구 한국가스공사,C,202.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N2,S49G01N72
+290901,정성우,64,대구 한국가스공사,GD,178.0,kbl_public_registration,2015,국내,0,2026-2027,S49G01N2,S49G01N72
+291005,최승욱,64,대구 한국가스공사,FD,191.0,kbl_public_registration,2016,국내,0,2026-2027,S49G01N2,S49G01N72
+291087,김국찬,64,대구 한국가스공사,FD,190.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N2,S49G01N72
+291194,전현우,64,대구 한국가스공사,FD,194.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N2,S49G01N42
+291226,박준영,64,대구 한국가스공사,FD,195.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N2,S49G01N9
+291556,샘조세프 벨란겔,64,대구 한국가스공사,GD,175.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N2,S49G01N72
+291680,케베 알루마,64,대구 한국가스공사,FD,206.0,kbl_public_registration,,외국,,2026-2027,S49G01N2,S49G01N72
+291862,양우혁,64,대구 한국가스공사,GD,178.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N2,S49G01N72
+291863,김민규,64,대구 한국가스공사,FD,196.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N2,S49G01N72
+291289,박준은,64,대구 한국가스공사,FD,194.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N2,S49G01N58
+290529,정희재,66,고양 소노,FD,195.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N2,S49G01N70
+290542,임동섭,66,고양 소노,FD,197.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N2,S49G01N70
+290765,이재도,66,고양 소노,GD,180.0,kbl_public_registration,2013,국내,0,2026-2027,S49G01N2,S49G01N70
+290785,최승욱,66,고양 소노,FD,193.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N2,S49G01N52
+290997,김진유,66,고양 소노,GD,189.0,kbl_public_registration,2016,국내,0,2026-2027,S49G01N2,S49G01N70
+291488,이정현,66,고양 소노,GD,188.0,kbl_public_registration,2021,국내,0,2026-2027,S49G01N2,S49G01N70
+291500,자니 오브라이언트,66,고양 소노,C,203.0,kbl_public_registration,,외국,,2026-2027,S49G01N2,S49G01N70
+291748,이근준,66,고양 소노,FD,194.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N2,S49G01N70
+291778,케빈 켐바오,66,고양 소노,FD,195.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N2,S49G01N70
+291881,스카티 제임스,66,고양 소노,FD,200.0,kbl_public_player_profile,,외국,,2026-2027,S49G01N2,S49G01N52
+291747,소준혁,66,고양 소노,GD,185.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N2,S49G01N36
+291856,신지원,66,고양 소노,C,197.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N2,S49G01N70
+290787,이승현,10,울산 현대모비스,FD,197.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N3,S49G01N73
+291189,서명진,10,울산 현대모비스,GD,188.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N3,S49G01N73
+291208,조한진,10,울산 현대모비스,FD,193.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N3,S49G01N14
+291375,이우석,10,울산 현대모비스,GD,196.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N3,S49G01N68
+291579,게이지 프림,10,울산 현대모비스,C,206.0,kbl_public_player_profile,,외국,,2026-2027,S49G01N3,S49G01N32
+291649,박무빈,10,울산 현대모비스,GD,184.0,kbl_public_registration,2023,국내,0,2026-2027,S49G01N3,S49G01N73
+291886,다리우스 베즐리,10,울산 현대모비스,FD,206.0,kbl_public_player_profile,,외국,,2026-2027,S49G01N3,S49G01N43
+291887,제리 아바디아노,10,울산 현대모비스,GD,180.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N3,S49G01N73
+290489,정준원,10,울산 현대모비스,FD,194.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N3,S49G01N73
+291275,김경원,10,울산 현대모비스,C,198.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N3,S49G01N73
+291594,김태완,10,울산 현대모비스,GD,181.0,kbl_public_registration,2022,국내,0,2026-2027,S49G01N3,S49G01N73
+291847,최강민,10,울산 현대모비스,GD,188.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N3,S49G01N73
+290603,이대헌,70,안양 정관장,FD,195.0,kbl_public_registration,2015,국내,0,2026-2027,S49G01N3,S49G01N76
+291008,박지훈,70,안양 정관장,GD,182.0,kbl_public_registration,2016,국내,0,2026-2027,S49G01N3,S49G01N76
+291220,변준형,70,안양 정관장,GD,185.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N3,S49G01N76
+291372,한승희,70,안양 정관장,FD,196.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N3,S49G01N76
+291436,라숀 토마스,70,안양 정관장,FD,200.0,kbl_public_registration,,외국,,2026-2027,S49G01N3,S49G01N76
+291583,렌즈 아반도,70,안양 정관장,GD,187.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N3,S49G01N76
+291648,표승빈,70,안양 정관장,FD,189.0,kbl_public_registration,2023,국내,0,2026-2027,S49G01N3,S49G01N76
+291746,박정웅,70,안양 정관장,GD,193.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N3,S49G01N76
+291857,문유현,70,안양 정관장,GD,180.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N3,S49G01N74
+291883,존 무니,70,안양 정관장,C,203.0,kbl_public_player_profile,,외국,,2026-2027,S49G01N3,S49G01N28
+290284,허일영,70,안양 정관장,FD,196.0,kbl_public_registration,2009,국내,0,2026-2027,S49G01N3,S49G01N76
+291276,박찬호,70,안양 정관장,C,202.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N3,S49G01N51
+290381,이정현,16,원주 DB,GD,191.0,kbl_public_registration,2010,국내,0,2026-2027,S49G01N4,S49G01N74
+290904,박봉진,16,원주 DB,FD,193.0,kbl_public_registration,2015,국내,0,2026-2027,S49G01N4,S49G01N74
+291001,강상재,16,원주 DB,FD,200.0,kbl_public_registration,2016,국내,0,2026-2027,S49G01N4,S49G01N33
+291070,최성원,16,원주 DB,GD,183.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N4,S49G01N74
+291351,이윤기,16,원주 DB,FD,189.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N4,S49G01N74
+291355,이용우,16,원주 DB,GD,185.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N4,S49G01N74
+291511,이선 알바노,16,원주 DB,GD,185.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N4,S49G01N74
+291698,레이션 해먼즈,16,원주 DB,FD,202.0,kbl_public_registration,,외국,,2026-2027,S49G01N4,S49G01N70
+291752,김보배,16,원주 DB,FD,202.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N4,S49G01N74
+291785,헨리 엘런슨,16,원주 DB,FD,208.0,kbl_public_registration,,외국,,2026-2027,S49G01N4,S49G01N74
+291850,이유진,16,원주 DB,FD,200.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N4,S49G01N74
+291386,이준희,16,원주 DB,GD,193.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N4,S49G01N74
+290454,정창영,06,수원 KT,GD,193.0,kbl_public_registration,2011,국내,0,2026-2027,S49G01N5,S49G01N77
+290583,한희원,06,수원 KT,FD,195.0,kbl_public_registration,2015,국내,0,2026-2027,S49G01N5,S49G01N77
+290599,서민수,06,수원 KT,FD,196.0,kbl_public_registration,2015,국내,0,2026-2027,S49G01N5,S49G01N77
+290763,전성현,06,수원 KT,FD,189.0,kbl_public_registration,2013,국내,0,2026-2027,S49G01N5,S49G01N77
+291352,박지원,06,수원 KT,GD,191.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N5,S49G01N77
+291492,하윤기,06,수원 KT,C,204.0,kbl_public_registration,2021,국내,0,2026-2027,S49G01N5,S49G01N37
+291586,이두원,06,수원 KT,C,204.0,kbl_public_registration,2022,국내,0,2026-2027,S49G01N5,S49G01N77
+291667,문정현,06,수원 KT,FD,194.0,kbl_public_registration,2023,국내,0,2026-2027,S49G01N5,S49G01N77
+291671,패리스 배스,06,수원 KT,FD,200.0,kbl_public_registration,,외국,,2026-2027,S49G01N5,S49G01N77
+291692,미구엘 옥존,06,수원 KT,GD,180.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N5,S49G01N48
+291842,강성욱,06,수원 KT,GD,184.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N5,S49G01N77
+291885,트레이 포터,06,수원 KT,C,209.0,kbl_public_registration,,외국,,2026-2027,S49G01N5,S49G01N77
+290440,이관희,35,서울 삼성,GD,189.0,kbl_public_registration,2011,국내,0,2026-2027,S49G01N5,S49G01N75
+290501,최현민,35,서울 삼성,FD,195.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N5,S49G01N75
+290754,한호빈,35,서울 삼성,GD,181.0,kbl_public_registration,2013,국내,0,2026-2027,S49G01N5,S49G01N75
+290985,최성모,35,서울 삼성,GD,187.0,kbl_public_registration,2016,국내,0,2026-2027,S49G01N5,S49G01N75
+291237,크리스 맥컬러,35,서울 삼성,FD,206.0,kbl_public_registration,,외국,,2026-2027,S49G01N5,S49G01N75
+291374,이근휘,35,서울 삼성,FD,188.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N5,S49G01N75
+291512,저스틴 구탕,35,서울 삼성,FD,188.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N5,S49G01N75
+291597,신동혁,35,서울 삼성,FD,191.0,kbl_public_registration,2022,국내,0,2026-2027,S49G01N5,S49G01N16
+291763,임동언,35,서울 삼성,FD,195.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N5,S49G01N62
+291764,황영찬,35,서울 삼성,GD,179.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N5,S49G01N75
+291787,케렘 칸터,35,서울 삼성,C,204.0,kbl_public_registration,,외국,,2026-2027,S49G01N5,S49G01N75
+291853,이규태,35,서울 삼성,FD,200.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N5,S49G01N75
+291274,양재혁,64,대구 한국가스공사,FD,191.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N9,S49G01N72
+291852,송재환,16,원주 DB,GD,188.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N13,S49G01N74
+291182,우동현,64,대구 한국가스공사,GD,176.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N14,S49G01N72
+291277,김진영,70,안양 정관장,GD,193.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N15,S49G01N38
+291855,강지훈,66,고양 소노,C,201.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N16,S49G01N70
+291651,이주영,60,부산 KCC,GD,182.0,kbl_public_registration,2023,국내,0,2026-2027,S49G01N17,S49G01N31
+291756,이대균,10,울산 현대모비스,FD,200.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N18,S49G01N73
+291888,데이본 리드,70,안양 정관장,FD,195.0,kbl_public_registration,,외국,,2026-2027,S49G01N19,S49G01N76
+291750,정성조,35,서울 삼성,GD,191.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N21,S49G01N75
+291095,윤성원,35,서울 삼성,FD,196.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N21,S49G01N75
+291865,김선우,50,창원 LG,GD,173.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N21,S49G01N49
+291494,김동준,10,울산 현대모비스,GD,175.0,kbl_public_registration,2021,국내,0,2026-2027,S49G01N22,S49G01N60
+290485,최부경,55,서울 SK,FD,200.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N26,S49G01N77
+290784,최원혁,55,서울 SK,GD,183.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N26,S49G01N77
+291068,김낙현,55,서울 SK,GD,184.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N26,S49G01N77
+291084,안영준,55,서울 SK,FD,195.0,kbl_public_registration,2017,국내,0,2026-2027,S49G01N26,S49G01N77
+291248,자밀 워니,55,서울 SK,C,199.0,kbl_public_registration,,외국,,2026-2027,S49G01N26,S49G01N77
+291303,김형빈,55,서울 SK,FD,201.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N26,S49G01N77
+291333,아이재아 힉스,55,서울 SK,FD,203.0,kbl_public_registration,,외국,,2026-2027,S49G01N26,S49G01N77
+291368,오재현,55,서울 SK,GD,187.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N26,S49G01N64
+291784,알빈 톨렌티노,55,서울 SK,FD,192.0,kbl_public_registration,,아시아쿼터,,2026-2027,S49G01N26,S49G01N34
+291846,에디 다니엘,55,서울 SK,FD,191.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N26,S49G01N41
+290450,오세근,55,서울 SK,FD,200.0,kbl_public_registration,2011,국내,0,2026-2027,S49G01N26,S49G01N77
+290740,전준범,55,서울 SK,FD,194.0,kbl_public_registration,2013,국내,0,2026-2027,S49G01N26,S49G01N77
+291860,강태현,60,부산 KCC,FD,197.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N28,S49G01N28
+290790,정효근,16,원주 DB,FD,202.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N29,S49G01N74
+291210,김준형,70,안양 정관장,FD,201.0,kbl_public_registration,2018,국내,0,2026-2027,S49G01N30,S49G01N60
+291640,유기상,50,창원 LG,GD,188.0,kbl_public_registration,2023,국내,0,2026-2027,S49G01N32,S49G01N75
+291476,김준환,06,수원 KT,GD,187.0,kbl_public_registration,2021,국내,0,2026-2027,S49G01N33,S49G01N77
+291388,이도헌,10,울산 현대모비스,GD,184.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N35,S49G01N73
+291845,안성우,55,서울 SK,GD,184.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N37,S49G01N77
+291391,조석호,66,고양 소노,GD,178.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N40,S49G01N70
+291754,손준,64,대구 한국가스공사,C,199.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N42,S49G01N47
+291695,앨런 윌리엄스,16,원주 DB,C,198.0,kbl_public_player_profile,,외국,,2026-2027,S49G01N45,S49G01N59
+290783,이현석,06,수원 KT,GD,190.0,kbl_public_registration,2014,국내,0,2026-2027,S49G01N46,S49G01N77
+290553,배병준,10,울산 현대모비스,GD,189.0,kbl_public_registration,2012,국내,0,2026-2027,S49G01N47,S49G01N47
+291376,양준우,64,대구 한국가스공사,GD,185.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N47,S49G01N72
+291760,이민서,55,서울 SK,GD,180.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N50,S49G01N77
+291475,오마리 스펠맨,10,울산 현대모비스,FD,206.0,kbl_public_registration,,외국,,2026-2027,S49G01N54,S49G01N73
+291592,여준형,35,서울 삼성,FD,198.0,kbl_public_registration,2022,국내,0,2026-2027,S49G01N54,S49G01N57
+291858,송한준,70,안양 정관장,FD,197.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N55,S49G01N76
+291349,이광진,50,창원 LG,FD,193.0,kbl_public_registration,2020,국내,0,2026-2027,S49G01N56,S49G01N75
+291641,박종하,66,고양 소노,GD,184.0,kbl_public_registration,2023,국내,0,2026-2027,S49G01N56,S49G01N63
+291843,박민재,06,수원 KT,FD,193.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N58,S49G01N62
+291755,권순우,64,대구 한국가스공사,GD,187.0,kbl_public_registration,2024,국내,0,2026-2027,S49G01N65,S49G01N65
+291889,올루페미 올루조비,66,고양 소노,C,207.0,kbl_public_registration,,외국,,2026-2027,S49G01N65,S49G01N70
+291844,김명진,55,서울 SK,FD,199.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N67,S49G01N77
+291626,제로드 존스,10,울산 현대모비스,FD,206.0,kbl_public_registration,,외국,,2026-2027,S49G01N68,S49G01N73
+291854,안세준,35,서울 삼성,FD,195.0,kbl_public_registration,2025,국내,0,2026-2027,S49G01N69,S49G01N69
+291281,김세창,70,안양 정관장,GD,183.0,kbl_public_registration,2019,국내,0,2026-2027,S49G01N76,S49G01N76

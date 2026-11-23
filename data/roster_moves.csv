@@ -1,0 +1,18 @@
+move_id,date,date_basis,event_type,game_id,player_id,player_name,from_team_id,to_team_id,related_player_id,related_player_name,source_url
+1,2025-12-04,announcement,trade,,291370,박진철,66,35,,,https://thunders.kbl.or.kr/team/history
+2,2025-12-04,announcement,trade,,291750,정성조,66,35,,,https://thunders.kbl.or.kr/team/history
+3,2025-12-04,announcement,trade,,290662,이동엽,35,66,,,https://thunders.kbl.or.kr/team/history
+4,2025-12-04,announcement,trade,,291362,차민석,35,66,,,https://thunders.kbl.or.kr/team/history
+5,2025-12-17,registration,foreign_replacement,,291341,존 이그부누,,10,291790,에릭 로메로,https://jumpball.co.kr/news/newsview.php?dt=m&ncode=1065597766745674
+6,2026-03-20,registration,foreign_replacement,,291879,카이린 갤러웨이,,50,291670,마이클 에릭,https://www.nocutnews.co.kr/news/6488634
+7,2026-10-13,first_game,temporary_foreign_replacement,S49G01N19,291888,데이본 리드,,70,291436,라숀 토마스,https://www.yna.co.kr/amp/view/AKR20261028169251007
+8,2026-10-28,registration,foreign_replacement,,291888,데이본 리드,,70,291883,존 무니,https://www.yna.co.kr/amp/view/AKR20261028169251007
+9,2026-10-29,registration,temporary_foreign_replacement,,291695,앨런 윌리엄스,,16,291785,헨리 엘런슨,https://www.yna.co.kr/view/AKR20261029150500007
+10,2026-10-29,public_absence_report,injury_absence,,291785,헨리 엘런슨,16,,,,https://www.yna.co.kr/view/AKR20261029150500007
+11,2026-11-05,registration,temporary_foreign_replacement,,291475,오마리 스펠맨,,10,291579,게이지 프림,https://jumpball.co.kr/news/newsview.php?dt=m&ncode=1065574501927079
+12,2026-11-11,registration,temporary_foreign_replacement,,291889,올루페미 올루조비,,66,291881,스카티 제임스,https://www.yna.co.kr/amp/view/AKR20261111151700007
+13,2026-11-12,game_date,injury_absence,S49G01N65,291881,스카티 제임스,66,,,,https://www.dailyil.com/ko/briefing/2026-11-12_KBL/
+14,2026-11-13,registration,temporary_foreign_replacement,,291626,재로드 존스,,10,291886,다리우스 베즐리,https://jumpball.co.kr/news/newsview.php?dt=m&ncode=1065599084933974
+15,2026-11-16,game_date,injury_absence,S49G01N73,291579,게이지 프림,10,,,,https://dailyil.com/ko/games/kbl-2026-11-16-mb-sk/
+16,2026-11-16,game_date,injury_absence,S49G01N73,291886,다리우스 베즐리,10,,,,https://dailyil.com/ko/games/kbl-2026-11-16-mb-sk/
+17,2026-01-05,first_game,foreign_replacement,S47G01N142,291871,베니 보트라이트,,64,291795,닉 퍼킨스,https://www.yna.co.kr/view/AKR20260105097300007
