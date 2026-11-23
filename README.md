@@ -47,8 +47,7 @@ python3 update.py
 
 공개 기록이 수정된 경기만 다시 받으려면 `python3 update.py --refresh-game S47G01N2`를 실행한다. 선수 등록 목록을 갱신하지 않고 경기 기록만 갱신할 때는 `--skip-profiles`를 사용할 수 있다. 로스터 이동 사례는 [근거 목록](PBP_Crawling/roster_moves_evidence.tsv)에 확인한 날짜, 유형, 선수, 양 구단 코드, 대체 대상, 날짜의 기준, 출처 URL을 탭으로 구분해 추가한 후 위 명령으로 반영한다.
 
-`data/`에 CSV, `PBP_Crawling/`에 수집·전처리 코드와 로스터 근거를 둔다. `source_cache.zip`을 함께 두면 받은 사람이 과거 경기 원본을 재사용할 수 있다. 폴더별 역할과 파일 설명 방식은 [TPBL 분석 저장소](https://github.com/parkeunji8/25-26-TPBL-McC)를 참고했다.
-
+`data/`에 CSV, `PBP_Crawling/`에 수집·전처리 코드와 로스터 근거를 둔다. `source_cache.zip`을 함께 두면 받은 사람이 과거 경기 원본을 재사용할 수 있다.
 ## 출처
 
 - [KBL 공개 기록실](https://www.kbl.or.kr/record/seasonLeader)과 [KBL 일정 및 결과](https://www.kbl.or.kr/match/schedule)
